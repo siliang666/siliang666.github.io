@@ -5,22 +5,22 @@
   
   <entry>
     <title>github绑定了自己的域名后，上传成功就404（已解决）</title>
-    <link href="/2022/07/15/2/"/>
-    <url>/2022/07/15/2/</url>
+    <link href="/2022/07/15/1/"/>
+    <url>/2022/07/15/1/</url>
     
-    <content type="html"><![CDATA[<p>之前建网站都是用服务器，第一次尝试用github做博客</p><p>由于英文不太好，先尝试在gitee上传hexo（要审核，有点麻烦就放弃了），再尝试在coding上传hexo（更新后和网上的教程不一样，没弄明白）最后才尝试在github上传hexo</p><p>遇到个问题，每次hexo d成功后博客就404（之前没绑自己的域名时，没有这个问题，绑定后就出现了这个问题）</p><p>解决办法是每次上传后都需要在设置里重新绑定下，才可以正常打开，这么弄比较麻烦</p><p>搜了下是上传后，CNAME失效了，一劳永逸的解决办法：</p><p>在本地source文件夹里建立一个CNAME，可以随便建个.TXT，里面输入你的域名地址（注意：只能输入一个！例如输入：lisiliang.cn），然后重命名成CNAME，拓展名记得删掉！</p><p>或者在GitHub仓库上把该文件下载下来，将其放置在source文件夹目录下。这样，在进行之后的更新部署就不需要进行重新设定了</p>]]></content>
+    <content type="html"><![CDATA[<p>之前建网站都是用服务器，第一次尝试用github做博客</p><p>由于英文不太好，先尝试在gitee上传hexo（要审核，有点麻烦就放弃了），再尝试在coding上传hexo（更新后和网上的教程不一样，没弄明白）最后才尝试在github上传hexo</p><p>遇到个问题，每次hexo d成功后博客就404（之前没绑自己的域名时，没有这个问题，绑定后就出现了这个问题）</p><p>解决办法是每次上传后都需要在设置里重新绑定下，才可以正常打开，这么弄比较麻烦</p><p>搜了下是上传后，CNAME失效了，一劳永逸的<strong>解决办法</strong>：</p><p>在本地source文件夹里建立一个CNAME，可以随便建个.TXT，里面输入你的域名地址（注意：只能输入一个！例如输入：lisiliang.cn），然后重命名成CNAME，拓展名记得删掉！</p><p>或者在GitHub仓库上把该文件下载下来，将其放置在source文件夹目录下。这样，在进行之后的更新部署就不需要进行重新设定了</p>]]></content>
     
     
     <categories>
       
-      <category>随笔</category>
+      <category>杂七杂八</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>随笔</tag>
+      <tag>杂七杂八</tag>
       
     </tags>
     
@@ -29,23 +29,48 @@
   
   
   <entry>
-    <title>第一篇文章</title>
-    <link href="/2022/07/14/1/"/>
-    <url>/2022/07/14/1/</url>
+    <title>ios锁屏密码错误，输入的是正确的却显示密码错误？</title>
+    <link href="/2021/11/25/3/"/>
+    <url>/2021/11/25/3/</url>
     
-    <content type="html"><![CDATA[<p>做了个博客，忘了是第几次做了</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="睡醒后，明明锁屏密码正确，却一直提示密码错误，导致已停用，查了一下，"><a href="#睡醒后，明明锁屏密码正确，却一直提示密码错误，导致已停用，查了一下，" class="headerlink" title="睡醒后，明明锁屏密码正确，却一直提示密码错误，导致已停用，查了一下，"></a>睡醒后，明明锁屏密码正确，却一直提示密码错误，导致已停用，查了一下，</h1><h1 id="开通applepay钱包，系统会把支付密码自动换成锁屏密码，密码带英文不就凉凉了吗？还好，我设的纯数字"><a href="#开通applepay钱包，系统会把支付密码自动换成锁屏密码，密码带英文不就凉凉了吗？还好，我设的纯数字" class="headerlink" title="开通applepay钱包，系统会把支付密码自动换成锁屏密码，密码带英文不就凉凉了吗？还好，我设的纯数字"></a>开通applepay钱包，系统会把支付密码自动换成锁屏密码，密码带英文不就凉凉了吗？还好，我设的纯数字</h1><h1 id="输入昨天设置的密码（applepay的密码），解锁成功！，迅速改密码！"><a href="#输入昨天设置的密码（applepay的密码），解锁成功！，迅速改密码！" class="headerlink" title="输入昨天设置的密码（applepay的密码），解锁成功！，迅速改密码！"></a>输入昨天设置的密码（applepay的密码），解锁成功！，迅速改密码！</h1><p><img src="https://i0.hdslb.com/bfs/article/watermark/ff5f88c0d2ae4e68d0d3fede557ff84ebc9e506b.jpg@942w_2094h_progressive.webp"></p><p><img src="https://i0.hdslb.com/bfs/article/watermark/bfa4f49ed1fc6ed2e19fb09fec42ab2733d50cfd.jpg@942w_708h_progressive.webp"><br><img src="https://i0.hdslb.com/bfs/article/watermark/3200a5394104d1cf6d74c36e40f7c728876b4fcf.jpg@942w_708h_progressive.webp"></p>]]></content>
     
     
     <categories>
       
-      <category>随笔</category>
+      <category>杂七杂八</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>随笔</tag>
+      <tag>杂七杂八</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>win10开机后桌面黑屏任务栏一直闪烁（解决办法）</title>
+    <link href="/2021/10/05/2/"/>
+    <url>/2021/10/05/2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="根治办法：升级win11，升级后再也没遇到过这种情况"><a href="#根治办法：升级win11，升级后再也没遇到过这种情况" class="headerlink" title="根治办法：升级win11，升级后再也没遇到过这种情况"></a>根治办法：升级win11，升级后再也没遇到过这种情况</h1><p>心态崩了，小米游戏本I51050ti版本，遇到第六七次了，最近两天还是连着黑屏</p><p>win10开机后桌面黑屏任务栏一直闪烁<br><img src="https://i0.hdslb.com/bfs/article/watermark/ff5f88c0d2ae4e68d0d3fede557ff84ebc9e506b.jpg@942w_2094h_progressive.webp"></p><p>解决办法： 进入到 切换用户的界面 按住shift，鼠标点击重启</p><p>进入到一个蓝底界面，疑难解答，重置电脑，选保留文件！！！！！！！！！！！！！</p><p>然后重置，会把现在的软件全部卸载，但是文件都有保留</p><p>进入桌面后记得屏蔽更新<br><img src="https://i0.hdslb.com/bfs/article/watermark/bfa4f49ed1fc6ed2e19fb09fec42ab2733d50cfd.jpg@942w_708h_progressive.webp"><br><img src="https://i0.hdslb.com/bfs/article/watermark/3200a5394104d1cf6d74c36e40f7c728876b4fcf.jpg@942w_708h_progressive.webp"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>杂七杂八</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>杂七杂八</tag>
       
     </tags>
     
