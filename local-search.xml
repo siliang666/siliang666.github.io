@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>一个小问题（待解决）</title>
+    <title>一个小问题（已解决）</title>
     <link href="/2022/07/15/2/"/>
     <url>/2022/07/15/2/</url>
     
-    <content type="html"><![CDATA[<p>之前建网站都是用服务器，第一次尝试这么做博客，</p><p>由于英文不太好，先尝试在gitee，coding上传hexo</p><p>都没搞懂，最后还是在github上传的</p><p>遇到个问题，hexo g 一上传就404</p><p>因为自己绑的域名，重新绑定下，就可以打开，这是什么问题</p>]]></content>
+    <content type="html"><![CDATA[<p>之前建网站都是用服务器，第一次尝试这么做博客，</p><p>由于英文不太好，先尝试在gitee，coding上传hexo</p><p>都没搞懂，最后还是在github上传的</p><p>遇到个问题，hexo g 一上传就404</p><p>因为自己绑的域名，重新绑定下，就可以打开，这是什么问题</p><p>解决办法：<br>在本地source文件夹里建立一个CNAME，里面输入你的域名地址（注意：只能输入一个！例如输入：lisiliang.cn），或者在GitHub仓库上把该文件下载下来，将其放置在source文件夹目录下。这样，在进行之后的更新部署就不需要进行重新设定了</p>]]></content>
     
     
     <categories>
